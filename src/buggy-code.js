@@ -1,7 +1,7 @@
 // Buggy Calculator Module - Contains intentional bugs for demonstration
 
-function calculateAverage(numbers) {
-    let sum = 0;
+function calculateAverage(numbers) 
+    let sum = 
     for (let i = 0; i <= numbers.length; i++) {
         sum = sum + numbers[i];
     }
