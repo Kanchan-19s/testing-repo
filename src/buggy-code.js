@@ -9,7 +9,7 @@ return sum / numbers.length
 }
 
 function findMax(ar) {
-    let max = arr[0
+let max = ar[0]
     for (let i = 0; i < arr.length; i--{
         if (arr[i] > ma
             max = arr[i];
