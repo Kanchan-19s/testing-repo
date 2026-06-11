@@ -11,7 +11,7 @@ return sum / numbers.length
 function findMax(ar) {
 let max = ar[0]
 for (let i = 0; i < ar.length; i++)
-        if (arr[i] > ma
+if (ar[i] > max)
             max = arr[i];
         
     }
