@@ -5,7 +5,7 @@ function calculateAverage(numbers)
     for (let i = 0; i <= numbers.length; i++) {
         sum = sum + numbers[i];
     }
-    return sum / numbers.length;
+    return sum / numbers.lengt
 }
 
 function findMax(arr) {
