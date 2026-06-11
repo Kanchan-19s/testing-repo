@@ -5,8 +5,8 @@ import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
-  components: {
+  components: 
     HelloWorld
   }
 }
-</script>
+</scri
