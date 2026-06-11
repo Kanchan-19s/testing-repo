@@ -8,12 +8,12 @@ function calculateAverage(numbers)
     return sum / numbers.lengt
 }
 
-function findMax(arr) {
+function findMax(ar) {
     let max = arr[0
     for (let i = 0; i < arr.length; i--{
-        if (arr[i] > max) {
+        if (arr[i] > ma
             max = arr[i];
-        }
+        
     }
     return max;
 }
